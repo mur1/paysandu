@@ -1,7 +1,7 @@
 local cool = {
-    3142174173,
-    305672295,
-    1
+    4797868344,
+    1,
+    2
 }
 
 local url = game:HttpGet("https://raw.githubusercontent.com/mur1/paysandu/main/whitelist.lua")
